@@ -1,4 +1,4 @@
-Test Rails Blog APP Alexander Buga
+Test Rails Blog APP Alexander B.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
